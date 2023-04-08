@@ -1,6 +1,6 @@
 const link =
   //   "http://api.weatherstack.com/current?access_key=2bd85aa00bc58ebdba4f243df555077b";
-  `http://api.weatherapi.com/v1/current.json?key=76a7eb903d4945a9bee155458230704`;
+  `https://api.weatherapi.com/v1/current.json?key=76a7eb903d4945a9bee155458230704`;
 
 const root = document.getElementById("root");
 
